@@ -1,0 +1,7 @@
+TESTOWNIK IWI-C + E
+
+Aby zainstalować jako aplikację na Androidzie, umieść wszystkie pliki z tego folderu na serwerze HTTPS (np. GitHub Pages, Netlify). Otwórz adres strony w Chrome na Androidzie i wybierz menu > Dodaj do ekranu głównego / Zainstaluj aplikację. Po pierwszym załadowaniu działa offline.
+
+Samodzielny plik HTML można uruchomić lokalnie bez instalacji. Nie jest to APK.
+
+Wyniki pozostają w pamięci przeglądarki i nie synchronizują się automatycznie między wersją file:// a adresem HTTPS.
