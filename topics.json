@@ -1,0 +1,486 @@
+[
+  {
+    "id": "general",
+    "code": "",
+    "title": "Ogólne Pytania",
+    "group": "Ogólne pytania",
+    "ranges": [
+      [
+        1,
+        227
+      ]
+    ]
+  },
+  {
+    "id": "t1_1",
+    "code": "T1.1",
+    "title": "Wprowadzenie do spawalnictwa",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        228,
+        245
+      ]
+    ]
+  },
+  {
+    "id": "t1_2",
+    "code": "T1.2",
+    "title": "Spawanie gazowe",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        246,
+        282
+      ]
+    ]
+  },
+  {
+    "id": "t1_3",
+    "code": "T1.3",
+    "title": "Specjalne procesy tlenowe",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        283,
+        293
+      ]
+    ]
+  },
+  {
+    "id": "t1_4",
+    "code": "T1.4",
+    "title": "Podstawy elektrotechniki (skrócony)",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        294,
+        337
+      ]
+    ]
+  },
+  {
+    "id": "t1_7",
+    "code": "T1.7",
+    "title": "Wprowadzenie do spawania łukowego w osłonach gazowych",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        574,
+        593
+      ]
+    ]
+  },
+  {
+    "id": "t1_8",
+    "code": "T1.8",
+    "title": "Spawanie metodą TIG",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        342,
+        364
+      ]
+    ]
+  },
+  {
+    "id": "t1_9",
+    "code": "T1.9",
+    "title": "Spawanie metodą MIG/MAG",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        397,
+        416
+      ]
+    ]
+  },
+  {
+    "id": "t1_10",
+    "code": "T1.10",
+    "title": "Spawanie łukowe elektrodą otuloną",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        482,
+        507
+      ]
+    ]
+  },
+  {
+    "id": "t1_11",
+    "code": "T1.11",
+    "title": "Spawanie łukiem krytym",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        365,
+        384
+      ]
+    ]
+  },
+  {
+    "id": "t1_12",
+    "code": "T1.12",
+    "title": "Zgrzewanie oporowe",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        539,
+        573
+      ]
+    ]
+  },
+  {
+    "id": "t1_13",
+    "code": "T1.13",
+    "title": "Inne rodzaje procesów spawalniczych",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        598,
+        612
+      ]
+    ]
+  },
+  {
+    "id": "t1_14",
+    "code": "T1.14",
+    "title": "Cięcie i inne procesy przygotowania brzegów",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        745,
+        778
+      ]
+    ]
+  },
+  {
+    "id": "t1_15",
+    "code": "T1.15",
+    "title": "Obróbka powierzchniowa (napawanie, natryskiwanie)",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        458,
+        477
+      ]
+    ]
+  },
+  {
+    "id": "t1_17",
+    "code": "T1.17",
+    "title": "Lutowanie twarde i miękkie",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        417,
+        453
+      ]
+    ]
+  },
+  {
+    "id": "t1_18",
+    "code": "T1.18",
+    "title": "Spajanie tworzyw sztucznych",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        779,
+        789
+      ]
+    ]
+  },
+  {
+    "id": "t1_19",
+    "code": "T1.19",
+    "title": "Procesy spajania wybranych materiałów",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        672,
+        677
+      ]
+    ]
+  },
+  {
+    "id": "t2_1",
+    "code": "T2.1",
+    "title": "Projektowanie i wytwarzanie stali",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        594,
+        597
+      ]
+    ]
+  },
+  {
+    "id": "t2_2",
+    "code": "T2.2",
+    "title": "Badania materiałów i złączy spawanych",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        513,
+        534
+      ]
+    ]
+  },
+  {
+    "id": "t2_3",
+    "code": "T2.3",
+    "title": "Struktura i własności czystych metali",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        454,
+        457
+      ]
+    ]
+  },
+  {
+    "id": "t2_4",
+    "code": "T2.4",
+    "title": "Stopy i wykresy fazowe",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        478,
+        481
+      ]
+    ]
+  },
+  {
+    "id": "t2_5",
+    "code": "T2.5",
+    "title": "Stopy żelazo-węgiel",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        508,
+        512
+      ]
+    ]
+  },
+  {
+    "id": "t2_6",
+    "code": "T2.6",
+    "title": "Obróbka cieplna materiału podstawowego i złączy spawanych",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        678,
+        699
+      ]
+    ]
+  },
+  {
+    "id": "t2_8",
+    "code": "T2.8",
+    "title": "Stale niestopowe ogólnego przeznaczenia i węglowo-manganowe",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        613,
+        634
+      ]
+    ]
+  },
+  {
+    "id": "t2_9",
+    "code": "T2.9",
+    "title": "Zjawisko pękania w stalach",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        720,
+        744
+      ]
+    ]
+  },
+  {
+    "id": "t2_10",
+    "code": "T2.10",
+    "title": "Stale drobnoziarniste",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        655,
+        671
+      ]
+    ]
+  },
+  {
+    "id": "t2_11",
+    "code": "T2.11",
+    "title": "Stale obrobione termomechanicznie",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        645,
+        654
+      ]
+    ]
+  },
+  {
+    "id": "t2_13",
+    "code": "T2.13",
+    "title": "Stale niskostopowe do pracy w bardzo niskich temperaturach",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        635,
+        644
+      ]
+    ]
+  },
+  {
+    "id": "t2_14",
+    "code": "T2.14",
+    "title": "Stale do pracy w podwyższonych temperaturach",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        700,
+        709
+      ]
+    ]
+  },
+  {
+    "id": "t2_16",
+    "code": "T2.16",
+    "title": "Wprowadzenie do korozji",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        385,
+        396
+      ]
+    ]
+  },
+  {
+    "id": "t2_17",
+    "code": "T2.17",
+    "title": "Wprowadzenie do trybologii",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        790,
+        797
+      ]
+    ]
+  },
+  {
+    "id": "t2_18",
+    "code": "T2.18",
+    "title": "Powłoki ochronne",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        798,
+        806
+      ]
+    ]
+  },
+  {
+    "id": "t2_19",
+    "code": "T2.19",
+    "title": "Stale odporne na pełzanie i żaroodporne",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        710,
+        719
+      ],
+      [
+        807,
+        816
+      ]
+    ]
+  },
+  {
+    "id": "t2_20",
+    "code": "T2.20",
+    "title": "Staliwo i żeliwo",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        817,
+        835
+      ]
+    ]
+  },
+  {
+    "id": "t2_21",
+    "code": "T2.21",
+    "title": "Miedź i stopy miedzi",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        836,
+        875
+      ]
+    ]
+  },
+  {
+    "id": "t2_22",
+    "code": "T2.22",
+    "title": "Nikiel i stopy niklu",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        876,
+        912
+      ]
+    ]
+  },
+  {
+    "id": "t2_23",
+    "code": "T2.23",
+    "title": "Aluminium i jego stopy",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        913,
+        940
+      ]
+    ]
+  },
+  {
+    "id": "t2_26",
+    "code": "T2.26",
+    "title": "Badania metalograficzne",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        535,
+        538
+      ]
+    ]
+  },
+  {
+    "id": "t3_5",
+    "code": "T3.5",
+    "title": "Wprowadzenie do mechaniki pękania",
+    "group": "Mechanika pękania",
+    "ranges": [
+      [
+        941,
+        962
+      ]
+    ]
+  },
+  {
+    "id": "t4_9",
+    "code": "T4.9",
+    "title": "Spawanie w naprawach",
+    "group": "Naprawy",
+    "ranges": [
+      [
+        963,
+        984
+      ]
+    ]
+  }
+]
