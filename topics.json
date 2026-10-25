@@ -8,6 +8,22 @@
       [
         1,
         227
+      ],
+      [
+        1132,
+        1177
+      ]
+    ]
+  },
+  {
+    "id": "t1_0",
+    "code": "T1.0",
+    "title": "Technologia i urządzenia spawalnicze",
+    "group": "Procesy spawalnicze",
+    "ranges": [
+      [
+        985,
+        1003
       ]
     ]
   },
@@ -200,6 +216,18 @@
       [
         672,
         677
+      ]
+    ]
+  },
+  {
+    "id": "t2_0",
+    "code": "T2.0",
+    "title": "Materiały i ich własności spawalnicze",
+    "group": "Materiały i badania",
+    "ranges": [
+      [
+        1004,
+        1037
       ]
     ]
   },
@@ -456,10 +484,22 @@
     ]
   },
   {
+    "id": "t3_0",
+    "code": "T3.0",
+    "title": "Projektowanie i konstruowanie",
+    "group": "Projektowanie i konstruowanie",
+    "ranges": [
+      [
+        1038,
+        1088
+      ]
+    ]
+  },
+  {
     "id": "t3_5",
     "code": "T3.5",
     "title": "Wprowadzenie do mechaniki pękania",
-    "group": "Mechanika pękania",
+    "group": "Projektowanie i konstruowanie",
     "ranges": [
       [
         941,
@@ -468,26 +508,26 @@
     ]
   },
   {
-    "id": "t4_9",
-    "code": "T4.9",
-    "title": "Spawanie w naprawach",
-    "group": "Naprawy",
+    "id": "t4_0",
+    "code": "T4.0",
+    "title": "Produkcja i zastosowanie wyrobów spawanych",
+    "group": "Produkcja i zastosowanie wyrobów spawanych",
     "ranges": [
       [
-        963,
-        984
+        1089,
+        1131
       ]
     ]
   },
   {
-    "id": "additional_985_1177",
-    "code": "",
-    "title": "Pytania dodatkowe, zestaw mieszany",
-    "group": "Dodatkowe zestawy",
+    "id": "t4_9",
+    "code": "T4.9",
+    "title": "Spawanie w naprawach",
+    "group": "Produkcja i zastosowanie wyrobów spawanych",
     "ranges": [
       [
-        985,
-        1177
+        963,
+        984
       ]
     ]
   }
