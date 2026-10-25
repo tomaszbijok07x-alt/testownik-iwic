@@ -392,10 +392,6 @@
       [
         710,
         719
-      ],
-      [
-        807,
-        816
       ]
     ]
   },
@@ -480,6 +476,18 @@
       [
         963,
         984
+      ]
+    ]
+  },
+  {
+    "id": "additional_985_1177",
+    "code": "",
+    "title": "Pytania dodatkowe, zestaw mieszany",
+    "group": "Dodatkowe zestawy",
+    "ranges": [
+      [
+        985,
+        1177
       ]
     ]
   }

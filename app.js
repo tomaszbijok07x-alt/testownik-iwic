@@ -159,6 +159,7 @@ function renderQuestion() {
   const q = s.pool[s.idx], t = topicFor(q.id, TOPICS);
   $('modeLabel').textContent = modeNames[s.mode];
   $('quizScope').textContent = s.scope;
+  $('quizScope').title = s.scope;
   $('position').textContent = `Pytanie ${s.idx + 1} z ${s.pool.length}`;
   $('score').textContent = s.mode === 'exam' ? `Zapisano: ${s.responses.length}` : `Poprawne: ${s.hits}`;
   $('quizBar').style.width = `${s.idx / s.pool.length * 100}%`;
@@ -181,6 +182,7 @@ function renderQuestion() {
   $('check').hidden = false; $('check').disabled = true;
   $('check').textContent = s.mode === 'exam' ? 'Zapisz odpowiedź' : 'Sprawdź odpowiedź';
   $('next').hidden = true;
+  document.querySelector('.question-content').scrollTop = 0;
 }
 
 function check() {
@@ -382,6 +384,11 @@ async function initOffline() {
     $('offlineStatus').textContent = 'Tryb online, zapis offline wymaga HTTPS'; return;
   }
   try {
+    const hadController = Boolean(navigator.serviceWorker.controller);
+    let reloading = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (hadController && !reloading) { reloading = true; location.reload(); }
+    });
     const registration = await navigator.serviceWorker.register('./sw.js', {updateViaCache: 'none'});
     await navigator.serviceWorker.ready;
     if (navigator.serviceWorker.controller) verifyOffline();

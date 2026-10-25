@@ -1,5 +1,5 @@
-const CACHE = 'iwi-c-e-github-675fdbc84dd0';
-const FILES = ['./index.html', './style.css', './app.js', './core.mjs', './questions.json', './topics.json', './manifest.webmanifest', './icon.svg', './icon-192.png', './icon-512.png'];
+const CACHE = 'iwi-c-e-github-1-9-2-7a0e70724b0e';
+const FILES = ['./index.html', './style.css', './mobile.css', './app.js', './core.mjs', './questions.json', './topics.json', './manifest.webmanifest', './icon.svg', './icon-192.png', './icon-512.png'];
 const urls = FILES.map(path => new URL(path, self.registration.scope).href);
 self.addEventListener('install', event => {
   event.waitUntil((async () => {
