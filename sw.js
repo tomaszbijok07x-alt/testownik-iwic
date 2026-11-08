@@ -1,4 +1,4 @@
-const CACHE = 'iwi-c-e-github-1-9-3-e72725ad03d9';
+const CACHE = 'iwi-c-e-github-1-9-4-cd160105c1e2';
 const FILES = ['./index.html', './style.css', './mobile.css', './app.js', './core.mjs', './questions.json', './topics.json', './manifest.webmanifest', './icon.svg', './icon-192.png', './icon-512.png'];
 const urls = FILES.map(path => new URL(path, self.registration.scope).href);
 self.addEventListener('install', event => {

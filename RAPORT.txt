@@ -1,0 +1,50 @@
+RAPORT AKTUALIZACJI BAZY
+Wersja 1.9.4 [pewne]
+Źródło: baza(1).zip [pewne].
+Zaimportowano wszystkie 1128 plików pytań [pewne]. Nie dodano ani nie usunięto numerów względem poprzedniej paczki.
+Zakres numeracji: od 1 do 1177, z przerwami [pewne]. Powtórzone numery od 807 do 816 są już nieobecne w przesłanym archiwum [pewne].
+Wszystkie klucze odpowiedzi są zgodne z nowym archiwum i identyczne z poprzednią wersją. Nie wykonywano korekty merytorycznej odpowiedzi.
+Zachowano dotychczasowy podział na 44 zestawy [pewne]. Każde pytanie ma dokładnie jedno przypisanie.
+
+ZMIANY W PRZESŁANYM ŹRÓDLE
+W porównaniu przy takim samym odczycie CP1250 przesłane pliki różnią się dla pytań: 255, 292, 295, 297, 299, 314, 573 [pewne].
+Przyjęto brzmienie przesłanej bazy. Nie uzupełniano brakujących słów ani nie poprawiano sformułowań technicznych.
+
+POLSKIE ZNAKI I ZNACZNIKI EKSPORTU
+Archiwum ma różne kodowania. Pliki UTF-8: 294, 295, 296, 302, 321, 335 [pewne]. Odczytano je prawidłowo zamiast jako CP1250. Pozostałe pliki odczytano jako CP1250 albo ASCII.
+Usunięto wyłącznie początkowy znacznik eksportu „; ” z pytań i odpowiedzi w plikach: 294, 296, 302, 321, 335 [pewne]. Nie zmieniono słów po znaczniku.
+Naprawiono oczywiste uszkodzenia litery „ń”: 503, 553, 568, 570, 571 [pewne].
+503 [pewne]: „Zalece¨˝” zastąpiono „Zaleceń”.
+553 [pewne]: „ko¨˝cowego” zastąpiono „końcowego”.
+568 [pewne]: „ko¨˝cowa” zastąpiono „końcowa”.
+570 [pewne]: „ko¨˝cowej” zastąpiono „końcowej”.
+571 [pewne]: „ko¨˝cowej” zastąpiono „końcowej”.
+
+DO PRZEJRZENIA W ŹRÓDLE
+255 [pewne]: w przesłanym pytaniu jest „Jaki wygląd jąderko normalnego płomienia tlenowo-acetylenowego?”. Zachowano ten zapis.
+295, odpowiedź D [pewne]: przesłana baza zawiera końcówkę „jądra energii”. Zachowano ten zapis. Nie zastępowano go samodzielnie innym słowem.
+
+WYNIK PORÓWNANIA GOTOWEJ BAZY Z POPRZEDNIĄ PACZKĄ
+Po uwzględnieniu kodowania i opisanych napraw różni się 17 pytań [pewne]: 255, 292, 294, 295, 296, 297, 299, 302, 314, 321, 335, 503, 553, 568, 570, 571, 573.
+255 [pewne]: pytanie.
+292 [pewne]: pytanie.
+294 [pewne]: pytanie, odpowiedzi.
+295 [pewne]: pytanie, odpowiedzi.
+296 [pewne]: pytanie, odpowiedzi.
+297 [pewne]: pytanie, odpowiedzi.
+299 [pewne]: pytanie, odpowiedzi.
+302 [pewne]: pytanie, odpowiedzi.
+314 [pewne]: pytanie, odpowiedzi.
+321 [pewne]: pytanie, odpowiedzi.
+335 [pewne]: pytanie, odpowiedzi.
+503 [pewne]: odpowiedzi.
+553 [pewne]: odpowiedzi.
+568 [pewne]: odpowiedzi.
+570 [pewne]: odpowiedzi.
+571 [pewne]: odpowiedzi.
+573 [pewne]: odpowiedzi.
+
+WERYFIKACJA
+Sprawdzono obecność wszystkich plików, maski, liczbę odpowiedzi, identyczność kluczy, numerację, pełne przypisanie tematów oraz integralność paczki.
+Układ telefonu, kolory odpowiedzi, ustawienia egzaminów, próg 71% [pewne], statystyki i import postępów korzystają z dotychczasowego kodu aplikacji.
+Nie wykonywano testu offline na fizycznym telefonie. Po wgraniu aplikacji online poczekaj na „Gotowe offline”.
