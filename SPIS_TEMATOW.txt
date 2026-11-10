@@ -1,134 +1,135 @@
 SPIS TEMATÓW TESTOWNIKA IWI-C + E
-Wersja 1.9.4 [pewne]
+Wersja 1.9.5 [pewne]
+Nazwy i zakresy według dostarczonego spisu. Liczby przeliczone z aktualnej bazy.
 
-Ogólne Pytania
-od 1 do 227, od 1132 do 1177, liczba pytań: 273 [pewne].
+baza_testownika_1_227+1132_1207 Ogólne Pytania
+Pytania: od 1 do 227, od 1132 do 1207. Liczba w aplikacji: 297 [pewne].
 
-T1.0 Technologia i urządzenia spawalnicze
-od 985 do 1003, liczba pytań: 19 [pewne].
+baza_testownika_T1_0_985_1003 Technologia i urządzenia spawalnicze
+Pytania: od 985 do 1003. Liczba w aplikacji: 19 [pewne].
 
-T1.1 Wprowadzenie do spawalnictwa
-od 228 do 245, liczba pytań: 18 [pewne].
+baza_testownika_T1_1_228_245 Wprowadzenie do spawalnictwa
+Pytania: od 228 do 245. Liczba w aplikacji: 17 [pewne].
 
-T1.2 Spawanie gazowe
-od 246 do 282, liczba pytań: 37 [pewne].
+baza_testownika_T1_2_246_282 Spawanie gazowe
+Pytania: od 246 do 282. Liczba w aplikacji: 37 [pewne].
 
-T1.3 Specjalne procesy tlenowe
-od 283 do 293, liczba pytań: 11 [pewne].
+baza_testownika_T1_3_283_293 Specjalne procesy tlenowe
+Pytania: od 283 do 293. Liczba w aplikacji: 11 [pewne].
 
-T1.4 Podstawy elektrotechniki (skrócony)
-od 294 do 337, liczba pytań: 9 [pewne].
+baza_testownika_T1_4_294_337 Podstawy elektrotechniki (skrócony)
+Pytania: od 294 do 337. Liczba w aplikacji: 9 [pewne].
 
-T1.7 Wprowadzenie do spawania łukowego w osłonach gazowych
-od 574 do 593, liczba pytań: 20 [pewne].
+baza_testownika_T1_7_574_593 Wprowadzenie do spawania łukowego w osłonach gazowych
+Pytania: od 574 do 593. Liczba w aplikacji: 20 [pewne].
 
-T1.8 Spawanie metodą TIG
-od 342 do 364, liczba pytań: 23 [pewne].
+baza_testownika_T1_8_342_364 Spawanie metodą TIG
+Pytania: od 342 do 364. Liczba w aplikacji: 23 [pewne].
 
-T1.9 Spawanie metodą MIG/MAG
-od 397 do 416, liczba pytań: 20 [pewne].
+baza_testownika_T1_9_397_416 Spawanie metodą MIG/MAG
+Pytania: od 397 do 416. Liczba w aplikacji: 20 [pewne].
 
-T1.10 Spawanie łukowe elektrodą otuloną
-od 482 do 507, liczba pytań: 26 [pewne].
+baza_testownika_T1_10_482_507 Spawanie łukowe elektrodą otuloną
+Pytania: od 482 do 507. Liczba w aplikacji: 25 [pewne].
 
-T1.11 Spawanie łukiem krytym
-od 365 do 384, liczba pytań: 20 [pewne].
+baza_testownika_T1_11_365_384 Spawanie łukiem krytym
+Pytania: od 365 do 384. Liczba w aplikacji: 20 [pewne].
 
-T1.12 Zgrzewanie oporowe
-od 539 do 573, liczba pytań: 35 [pewne].
+baza_testownika_T1_12_539_573 Zgrzewanie oporowe
+Pytania: od 539 do 573. Liczba w aplikacji: 35 [pewne].
 
-T1.13 Inne rodzaje procesów spawalniczych
-od 598 do 612, liczba pytań: 15 [pewne].
+baza_testownika_T1_13_598_612 Inne rodzaje procesów spawalniczych
+Pytania: od 598 do 612. Liczba w aplikacji: 15 [pewne].
 
-T1.14 Cięcie i inne procesy przygotowania brzegów
-od 745 do 778, liczba pytań: 34 [pewne].
+baza_testownika_T1_14_745_778 Cięcie i inne procesy przygotowania brzegów
+Pytania: od 745 do 778. Liczba w aplikacji: 33 [pewne].
 
-T1.15 Obróbka powierzchniowa (napawanie, natryskiwanie)
-od 458 do 477, liczba pytań: 20 [pewne].
+baza_testownika_T1_15_458_477 Obróbka powierzchniowa (napawanie, natryskiwanie)
+Pytania: od 458 do 477. Liczba w aplikacji: 20 [pewne].
 
-T1.17 Lutowanie twarde i miękkie
-od 417 do 453, liczba pytań: 37 [pewne].
+baza_testownika_T1_17_417_453 Lutowanie twarde i miękkie
+Pytania: od 417 do 453. Liczba w aplikacji: 37 [pewne].
 
-T1.18 Spajanie tworzyw sztucznych
-od 779 do 789, liczba pytań: 11 [pewne].
+baza_testownika_T1_18_779_789 Spajanie tworzyw sztucznych
+Pytania: od 779 do 789. Liczba w aplikacji: 11 [pewne].
 
-T1.19 Procesy spajania wybranych materiałów
-od 672 do 677, liczba pytań: 6 [pewne].
+baza_testownika_T1_19_672_677 Procesy spajania wybranych materiałów
+Pytania: od 672 do 677. Liczba w aplikacji: 6 [pewne].
 
-T2.0 Materiały i ich własności spawalnicze
-od 1004 do 1037, liczba pytań: 34 [pewne].
+baza_testownika_T2_0_1004_1037 Materiały i ich własności spawalnicze
+Pytania: od 1004 do 1037. Liczba w aplikacji: 34 [pewne].
 
-T2.1 Projektowanie i wytwarzanie stali
-od 594 do 597, liczba pytań: 4 [pewne].
+baza_testownika_T2_1_594_597 Projektowanie i wytwarzanie stali
+Pytania: od 594 do 597. Liczba w aplikacji: 4 [pewne].
 
-T2.2 Badania materiałów i złączy spawanych
-od 513 do 534, liczba pytań: 22 [pewne].
+baza_testownika_T2_2_513_534 Badania materiałów i złączy spawanych
+Pytania: od 513 do 534. Liczba w aplikacji: 22 [pewne].
 
-T2.3 Struktura i własności czystych metali
-od 454 do 457, liczba pytań: 4 [pewne].
+baza_testownika_T2_3_454_457 Struktura i własności czystych metali
+Pytania: od 454 do 457. Liczba w aplikacji: 4 [pewne].
 
-T2.4 Stopy i wykresy fazowe
-od 478 do 481, liczba pytań: 4 [pewne].
+baza_testownika_T2_4_478_481 Stopy i wykresy fazowe
+Pytania: od 478 do 481. Liczba w aplikacji: 3 [pewne].
 
-T2.5 Stopy żelazo-węgiel
-od 508 do 512, liczba pytań: 5 [pewne].
+baza_testownika_T2_5_508_512 Stopy żelazo-węgiel
+Pytania: od 508 do 512. Liczba w aplikacji: 5 [pewne].
 
-T2.6 Obróbka cieplna materiału podstawowego i złączy spawanych
-od 678 do 699, liczba pytań: 22 [pewne].
+baza_testownika_T2_6_678_699 Obróbka cieplna materiału podstawowego i złączy spawanych
+Pytania: od 678 do 699. Liczba w aplikacji: 22 [pewne].
 
-T2.8 Stale niestopowe ogólnego przeznaczenia i węglowo-manganowe
-od 613 do 634, liczba pytań: 22 [pewne].
+baza_testownika_T2_8_613_634 Stale niestopowe ogólnego przeznaczenia i węglowo-manganowe
+Pytania: od 613 do 634. Liczba w aplikacji: 22 [pewne].
 
-T2.9 Zjawisko pękania w stalach
-od 720 do 744, liczba pytań: 25 [pewne].
+baza_testownika_T2_9_720_744 Zjawisko pękania w stalach
+Pytania: od 720 do 744. Liczba w aplikacji: 25 [pewne].
 
-T2.10 Stale drobnoziarniste
-od 655 do 671, liczba pytań: 17 [pewne].
+baza_testownika_T2_10_655_671 Stale drobnoziarniste
+Pytania: od 655 do 671. Liczba w aplikacji: 17 [pewne].
 
-T2.11 Stale obrobione termomechanicznie
-od 645 do 654, liczba pytań: 10 [pewne].
+baza_testownika_T2_11_645_654 Stale obrobione termomechanicznie
+Pytania: od 645 do 654. Liczba w aplikacji: 10 [pewne].
 
-T2.13 Stale niskostopowe do pracy w bardzo niskich temperaturach
-od 635 do 644, liczba pytań: 10 [pewne].
+baza_testownika_T2_13_635_644 Stale niskostopowe do pracy w bardzo niskich temperaturach
+Pytania: od 635 do 644. Liczba w aplikacji: 10 [pewne].
 
-T2.14 Stale do pracy w podwyższonych temperaturach
-od 700 do 709, liczba pytań: 10 [pewne].
+baza_testownika_T2_14_700_709 Stale do pracy w podwyższonych temperaturach
+Pytania: od 700 do 709. Liczba w aplikacji: 9 [pewne].
 
-T2.16 Wprowadzenie do korozji
-od 385 do 396, liczba pytań: 12 [pewne].
+baza_testownika_T2_16_385_396 Wprowadzenie do korozji
+Pytania: od 385 do 396. Liczba w aplikacji: 12 [pewne].
 
-T2.17 Wprowadzenie do trybologii
-od 790 do 797, liczba pytań: 8 [pewne].
+baza_testownika_T2_17_790_797 Wprowadzenie do trybologii
+Pytania: od 790 do 797. Liczba w aplikacji: 8 [pewne].
 
-T2.18 Powłoki ochronne
-od 798 do 806, liczba pytań: 9 [pewne].
+baza_testownika_T2_18_798_806 Powłoki ochronne
+Pytania: od 798 do 806. Liczba w aplikacji: 9 [pewne].
 
-T2.19 Stale odporne na pełzanie i żaroodporne
-od 710 do 719, liczba pytań: 10 [pewne].
+baza_testownika_T2_19_710_719 Stale odporne na pełzanie i żaroodporne
+Pytania: od 710 do 719. Liczba w aplikacji: 10 [pewne].
 
-T2.20 Staliwo i żeliwo
-od 817 do 835, liczba pytań: 19 [pewne].
+baza_testownika_T2_20_817_835 Staliwo i żeliwo
+Pytania: od 817 do 835. Liczba w aplikacji: 19 [pewne].
 
-T2.21 Miedź i stopy miedzi
-od 836 do 875, liczba pytań: 40 [pewne].
+baza_testownika_T2_21_836_875 Miedź i stopy miedzi
+Pytania: od 836 do 875. Liczba w aplikacji: 40 [pewne].
 
-T2.22 Nikiel i stopy niklu
-od 876 do 912, liczba pytań: 37 [pewne].
+baza_testownika_T2_22_876_912 Nikiel i stopy niklu
+Pytania: od 876 do 912. Liczba w aplikacji: 37 [pewne].
 
-T2.23 Aluminium i jego stopy
-od 913 do 940, liczba pytań: 28 [pewne].
+baza_testownika_T2_23_913_940 Aluminium i jego stopy
+Pytania: od 913 do 940. Liczba w aplikacji: 28 [pewne].
 
-T2.26 Badania metalograficzne
-od 535 do 538, liczba pytań: 4 [pewne].
+baza_testownika_T2_26_535_538 Badania metalograficzne
+Pytania: od 535 do 538. Liczba w aplikacji: 4 [pewne].
 
-T3.0 Projektowanie i konstruowanie
-od 1038 do 1088, liczba pytań: 51 [pewne].
+baza_testownika_T3_0_1038_1088 Projektowanie i konstruowanie
+Pytania: od 1038 do 1088. Liczba w aplikacji: 51 [pewne].
 
-T3.5 Wprowadzenie do mechaniki pękania
-od 941 do 962, liczba pytań: 22 [pewne].
+baza_testownika_T3_5_941_962 Wprowadzenie do mechaniki pękania
+Pytania: od 941 do 962. Liczba w aplikacji: 22 [pewne].
 
-T4.0 Produkcja i zastosowanie wyrobów spawanych
-od 1089 do 1131, liczba pytań: 43 [pewne].
+baza_testownika_T4_0_1089_1131 Produkcja i zastosowanie wyrobów spawanych
+Pytania: od 1089 do 1131. Liczba w aplikacji: 43 [pewne].
 
-T4.9 Spawanie w naprawach
-od 963 do 984, liczba pytań: 22 [pewne].
+baza_testownika_T4_9_963_984 Spawanie w naprawach
+Pytania: od 963 do 984. Liczba w aplikacji: 22 [pewne].

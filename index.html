@@ -20,7 +20,7 @@
   <main>
     <div id="loading" class="panel">Wczytywanie Twojej bazy pytań…</div>
     <section id="workspace" hidden>
-      <div class="eyebrow"><span class="live-dot"></span><span id="offlineStatus" role="status">Przygotowywanie trybu offline</span><span class="version">WERSJA 1.9.4</span></div>
+      <div class="eyebrow"><span class="live-dot"></span><span id="offlineStatus" role="status">Przygotowywanie trybu offline</span><span class="version">WERSJA 1.9.5</span></div>
       <nav class="tabs" aria-label="Nawigacja główna">
         <a href="#start" data-tab="start">Nauka</a><a href="#tematy" data-tab="tematy">Tematy</a><a href="#wyniki" data-tab="wyniki">Wyniki</a>
       </nav>
@@ -28,7 +28,7 @@
       <section id="startView" class="view">
         <div class="hero">
           <div><div class="eyebrow">NAUKA I EGZAMINY</div><h1>Testownik spawalniczy</h1><p class="muted">Wybierz temat lub sprawdź się z całej bazy.<br>Ucz się w swoim tempie, również bez internetu.</p><div class="hero-actions"><a class="button primary" href="#tematy">Wybierz temat <span aria-hidden="true">↗</span></a><a href="#examConfig" class="button">Ustaw egzamin</a></div></div>
-          <div class="hero-count"><div class="count-mark" aria-hidden="true">✳</div><strong id="dbCount">1128</strong><span>pytań w Twojej bazie</span><div class="count-footer"><span>Treść zachowana</span><span>✓</span></div></div>
+          <div class="hero-count"><div class="count-mark" aria-hidden="true">✳</div><strong id="dbCount">1147</strong><span>pytań w Twojej bazie</span><div class="count-footer"><span>Treść zachowana</span><span>✓</span></div></div>
         </div>
 
         <section class="panel exam-config" id="examConfig" aria-labelledby="examTitle">
@@ -57,12 +57,12 @@
             <label class="search-field"><span aria-hidden="true">⌕</span><input id="topicSearch" type="search" placeholder="Szukaj tematu, np. TIG lub korozja" aria-label="Szukaj tematu"></label>
             <div class="topic-toolbar"><span id="topicsCount" class="small muted"></span><button id="clearTopics" class="text-button">Wyczyść wybór</button></div>
             <div id="topicList" class="topic-list"></div>
-            <div class="mobile-start"><span id="mobilePoolCount">1128 pytań</span><button id="mobileStartSelection" class="primary">Uruchom test ↗</button></div>
-            <details class="source-note"><summary>O podziale pytań</summary><p>Podział opiera się na zakresach podanych na zdjęciach i w Twoich wskazówkach. Oznaczenia T pochodzą z tego spisu i mogą różnić się od numerów aktualnych wykładów. Wszystkie pytania przypisano według nazw folderów i zakresów widocznych na przesłanych zdjęciach. Pula „Ogólne Pytania” obejmuje oba podane zakresy. Zestawy T1.0, T2.0, T3.0 i T4.0 mają własne nazwy i zakresy.</p><p id="unassignedInfo"></p><p>Zachowano treść pytań, odpowiedzi, klucze i numerację z nowej bazy. Usunięto wskazany powtórzony zestaw od 807 do 816. Uwzględniono skrócony zestaw elektrotechniki dostarczony w aktualnym archiwum.</p></details>
+            <div class="mobile-start"><span id="mobilePoolCount">1147 pytań</span><button id="mobileStartSelection" class="primary">Uruchom test ↗</button></div>
+            <details class="source-note"><summary>O podziale pytań</summary><p>Podział opiera się na dostarczonym spisie tematów. Pula „Ogólne Pytania” obejmuje numery od 1 do 227 oraz od 1132 do 1207. Pozostałe pytania są przypisane według zakresów zapisanych w spisie. Liczby przy tematach pokazują pytania obecne w aktualnej bazie.</p><p id="unassignedInfo"></p><p>Zachowano treść pytań, odpowiedzi, klucze i numerację z nowej bazy. Usunięto wskazany powtórzony zestaw od 807 do 816. Uwzględniono skrócony zestaw elektrotechniki dostarczony w aktualnym archiwum.</p></details>
           </div>
           <aside class="panel session-config">
-            <div class="eyebrow">TWÓJ ZESTAW</div><h2>Ustaw test</h2><div class="selected-count"><strong id="poolCount">1128</strong><span>pytań do wyboru</span></div><p id="scopeDescription" class="small muted"></p>
-            <div class="range-fields"><label>Od numeru<input id="from" type="number" min="1" max="1177" value="1" inputmode="numeric"></label><label>Do numeru<input id="to" type="number" min="1" max="1177" value="1177" inputmode="numeric"></label></div>
+            <div class="eyebrow">TWÓJ ZESTAW</div><h2>Ustaw test</h2><div class="selected-count"><strong id="poolCount">1147</strong><span>pytań do wyboru</span></div><p id="scopeDescription" class="small muted"></p>
+            <div class="range-fields"><label>Od numeru<input id="from" type="number" min="1" max="1207" value="1" inputmode="numeric"></label><label>Do numeru<input id="to" type="number" min="1" max="1207" value="1207" inputmode="numeric"></label></div>
             <label>Liczba pytań<select id="limit" aria-label="Liczba pytań"><option value="5">5 pytań</option><option value="10">10 pytań</option><option value="20">20 pytań</option><option value="30" selected>30 pytań</option><option value="50">50 pytań</option><option value="100">100 pytań</option><option value="all">Wszystkie z wyboru</option></select></label>
             <label>Tryb sesji<select id="sessionMode" aria-label="Tryb sesji"><option value="learn">Nauka z informacją po odpowiedzi</option><option value="exam">Egzamin z wynikiem na końcu</option><option value="all">Wszystkie po kolei</option><option value="smart">Inteligentne powtórki</option><option value="wrong">Powtórz błędy</option></select></label>
             <p id="selectionError" class="error small" role="alert"></p><button id="startSelection" class="primary full">Uruchom test <span aria-hidden="true">↗</span></button><p class="muted small">Liczba pytań jest ograniczona do dostępnej puli. Próg zaliczenia: 71%. W trybie egzaminu zobaczysz odpowiedzi dopiero po zakończeniu.</p>
