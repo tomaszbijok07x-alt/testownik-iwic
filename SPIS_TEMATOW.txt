@@ -1,9 +1,9 @@
 SPIS TEMATÓW TESTOWNIKA IWI-C + E
-Wersja 1.9.5 [pewne]
-Nazwy i zakresy według dostarczonego spisu. Liczby przeliczone z aktualnej bazy.
+Wersja 1.9.6 [pewne]
+Zachowano dotychczasowe tematy. Liczby przeliczono z aktualnej bazy.
 
-baza_testownika_1_227+1132_1207 Ogólne Pytania
-Pytania: od 1 do 227, od 1132 do 1207. Liczba w aplikacji: 297 [pewne].
+baza_testownika_1_227+1132_1209 Ogólne Pytania
+Pytania: od 1 do 227, od 1132 do 1209. Liczba w aplikacji: 280 [pewne].
 
 baza_testownika_T1_0_985_1003 Technologia i urządzenia spawalnicze
 Pytania: od 985 do 1003. Liczba w aplikacji: 19 [pewne].
@@ -12,7 +12,7 @@ baza_testownika_T1_1_228_245 Wprowadzenie do spawalnictwa
 Pytania: od 228 do 245. Liczba w aplikacji: 17 [pewne].
 
 baza_testownika_T1_2_246_282 Spawanie gazowe
-Pytania: od 246 do 282. Liczba w aplikacji: 37 [pewne].
+Pytania: od 246 do 282. Liczba w aplikacji: 36 [pewne].
 
 baza_testownika_T1_3_283_293 Specjalne procesy tlenowe
 Pytania: od 283 do 293. Liczba w aplikacji: 11 [pewne].
@@ -42,13 +42,13 @@ baza_testownika_T1_13_598_612 Inne rodzaje procesów spawalniczych
 Pytania: od 598 do 612. Liczba w aplikacji: 15 [pewne].
 
 baza_testownika_T1_14_745_778 Cięcie i inne procesy przygotowania brzegów
-Pytania: od 745 do 778. Liczba w aplikacji: 33 [pewne].
+Pytania: od 745 do 778. Liczba w aplikacji: 32 [pewne].
 
 baza_testownika_T1_15_458_477 Obróbka powierzchniowa (napawanie, natryskiwanie)
 Pytania: od 458 do 477. Liczba w aplikacji: 20 [pewne].
 
 baza_testownika_T1_17_417_453 Lutowanie twarde i miękkie
-Pytania: od 417 do 453. Liczba w aplikacji: 37 [pewne].
+Pytania: od 417 do 453. Liczba w aplikacji: 36 [pewne].
 
 baza_testownika_T1_18_779_789 Spajanie tworzyw sztucznych
 Pytania: od 779 do 789. Liczba w aplikacji: 11 [pewne].
@@ -60,16 +60,16 @@ baza_testownika_T2_0_1004_1037 Materiały i ich własności spawalnicze
 Pytania: od 1004 do 1037. Liczba w aplikacji: 34 [pewne].
 
 baza_testownika_T2_1_594_597 Projektowanie i wytwarzanie stali
-Pytania: od 594 do 597. Liczba w aplikacji: 4 [pewne].
+Pytania: od 594 do 597. Liczba w aplikacji: 2 [pewne].
 
 baza_testownika_T2_2_513_534 Badania materiałów i złączy spawanych
-Pytania: od 513 do 534. Liczba w aplikacji: 22 [pewne].
+Pytania: od 513 do 534. Liczba w aplikacji: 19 [pewne].
 
 baza_testownika_T2_3_454_457 Struktura i własności czystych metali
 Pytania: od 454 do 457. Liczba w aplikacji: 4 [pewne].
 
 baza_testownika_T2_4_478_481 Stopy i wykresy fazowe
-Pytania: od 478 do 481. Liczba w aplikacji: 3 [pewne].
+Pytania: od 478 do 481. Liczba w aplikacji: 2 [pewne].
 
 baza_testownika_T2_5_508_512 Stopy żelazo-węgiel
 Pytania: od 508 do 512. Liczba w aplikacji: 5 [pewne].
@@ -78,13 +78,13 @@ baza_testownika_T2_6_678_699 Obróbka cieplna materiału podstawowego i złączy
 Pytania: od 678 do 699. Liczba w aplikacji: 22 [pewne].
 
 baza_testownika_T2_8_613_634 Stale niestopowe ogólnego przeznaczenia i węglowo-manganowe
-Pytania: od 613 do 634. Liczba w aplikacji: 22 [pewne].
+Pytania: od 613 do 634. Liczba w aplikacji: 21 [pewne].
 
 baza_testownika_T2_9_720_744 Zjawisko pękania w stalach
 Pytania: od 720 do 744. Liczba w aplikacji: 25 [pewne].
 
 baza_testownika_T2_10_655_671 Stale drobnoziarniste
-Pytania: od 655 do 671. Liczba w aplikacji: 17 [pewne].
+Pytania: od 655 do 671. Liczba w aplikacji: 16 [pewne].
 
 baza_testownika_T2_11_645_654 Stale obrobione termomechanicznie
 Pytania: od 645 do 654. Liczba w aplikacji: 10 [pewne].
